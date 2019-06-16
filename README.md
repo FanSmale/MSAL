@@ -10,3 +10,5 @@ This is used as a constraint to prevent the selection of instances that are too 
 The experiments were performed on Matlab R2017a software.
 
 DOI:10.1109/ACCESS.2019.2914263
+
+![image](https://github.com/FanSmale/MSAL/blob/master/framework.png)

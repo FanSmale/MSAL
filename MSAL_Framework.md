@@ -1,1 +1,1 @@
-![image](https://github.com/FanSmale/MSAL/blob/master/framework.pdf)
+![image](https://github.com/FanSmale/MSAL/blob/master/framework.png)

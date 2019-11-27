@@ -1,4 +1,4 @@
-# MSAL
+#  Matlab code -- MSAL(multi-standard optimization active learning) Alogorithm
 Active learning selects the most critical instances and obtains their labels through interaction with an oracle. 
 Selecting either informative or representative unlabeled instances may result in sampling bias or cluster dependency. 
 In this paper, we propose a multi-standard optimization active learning (MSAL) algorithm that considers the informativeness, representativeness, and diversity of instances. 

@@ -11,4 +11,6 @@ The experiments were performed on Matlab R2017a software.
 
 DOI:10.1109/ACCESS.2019.2914263
 
+WOS:000470246900001
+
 ![image](https://github.com/FanSmale/MSAL/blob/master/framework.png)
